@@ -19,7 +19,7 @@ module.exports = new CommandInterface({
 
 	example:[],
 
-	related:["owo marry","owo am"],
+	related:["ds marry","ds am"],
 
 	cooldown:3000,
 

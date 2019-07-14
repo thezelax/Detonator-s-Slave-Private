@@ -20,11 +20,11 @@ module.exports = new CommandInterface({
 
 	args:"",
 
-	desc:"Displays your inventory! Use 'owo equip' to use them!",
+	desc:"Displays your inventory! Use 'ds equip' to use them!",
 
 	example:[],
 
-	related:["owo equip"],
+	related:["ds equip"],
 
 	cooldown:10000,
 	half:80,

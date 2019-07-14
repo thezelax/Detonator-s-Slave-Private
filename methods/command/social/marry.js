@@ -22,9 +22,9 @@ module.exports = new CommandInterface({
 
 	desc:"Use a ring to marry another user for extra daily rewards! You can reuse the command to upgrade a ring. All rings are the same, there are no extra benefits for a better ring.",
 
-	example:["owo marry 2 @Scuttler#0001"],
+	example:["ds marry 2 @Scuttler#0001"],
 
-	related:["owo daily","owo shop"],
+	related:["ds daily","ds shop"],
 
 	cooldown:30000,
 

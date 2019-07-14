@@ -15,9 +15,9 @@ module.exports = new CommandInterface({
 
 	desc:"View the latest announcement! Announcements will also be displayed in your daily command! You can disable this by typing 'owo announcement disable'",
 
-	example:["owo announcement","owo announcement enable","owo announcement disable"],
+	example:["ds announcement","ds announcement enable","ds announcement disable"],
 
-	related:["owo daily"],
+	related:["ds daily"],
 
 	cooldown:10000,
 	half:100,
