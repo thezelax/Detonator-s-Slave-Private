@@ -17,14 +17,14 @@ module.exports = new CommandInterface({
 
 	example:[],
 
-	related:["owo link"],
+	related:["ds link"],
 
 	cooldown:5000,
 	half:100,
 	six:500,
 
 	execute: function(p){
-		var text = "**<:owo:448256976141549568> |** Come join our discord to ask for help or just have fun!\n";
+		var text = "** |** Something is missing here\n";
 		text += "**<:blank:427371936482328596> |** "+p.config.guildlink;
 		p.send(text);
 	}

@@ -22,7 +22,7 @@ module.exports = new CommandInterface({
 
 	desc:"Send a message to an admin!",
 
-	example:["owo feedback Thanks for the bot!"],
+	example:["ds feedback Thanks for the bot!"],
 
 	related:[],
 

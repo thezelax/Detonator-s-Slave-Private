@@ -15,9 +15,9 @@ module.exports = new CommandInterface({
 
 	desc:"Enable a command in the current channel",
 
-	example:["owo enable hunt","owo enable all"],
+	example:["ds enable hunt","ds enable all"],
 
-	related:["owo disable"],
+	related:["ds disable"],
 
 	cooldown:1000,
 	half:100,
