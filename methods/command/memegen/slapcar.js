@@ -20,7 +20,7 @@ module.exports = new CommandInterface({
 
 	desc:"Creates a *slaps roof of car* meme! You can also tag a user after your text to use their image instead",
 
-	example:["owo slapcar This badboy can fit so much coffee @Scuttler","owo slapcar I slap cars"],
+	example:["ds slapcar This badboy can fit so much coffee @Scuttler","ds slapcar I slap cars"],
 
 	related:[],
 
