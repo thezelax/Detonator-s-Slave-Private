@@ -17,9 +17,9 @@ module.exports = new CommandInterface({
 
 	desc:"Grabs a gif/pic with the given type. To list all the types, type 'owo gif'. Some listed types may not work",
 
-	example:["owo pic neko","owo gif neko"],
+	example:["ds pic neko","ds gif neko"],
 
-	related:["owo gif","owo pic"],
+	related:["ds gif","ds pic"],
 
 	cooldown:5000,
 	half:100,

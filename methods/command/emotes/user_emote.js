@@ -22,9 +22,9 @@ module.exports = new CommandInterface({
 
 	desc:"Express your emotions on others!",
 
-	example:["owo "+emoteList.join("|")],
+	example:["ds "+emoteList.join("|")],
 
-	related:["owo cry","owo pout","owo dance","and more"],
+	related:["ds cry","ds pout","ds dance","and more"],
 
 	cooldown:5000,
 	half:100,

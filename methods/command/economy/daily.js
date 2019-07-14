@@ -25,7 +25,7 @@ module.exports = new CommandInterface({
 
 	example:[],
 
-	related:["owo money"],
+	related:["ds money"],
 
 	cooldown:5000,
 	half:100,
