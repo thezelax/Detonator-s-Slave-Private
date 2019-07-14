@@ -17,7 +17,7 @@ module.exports = new CommandInterface({
 
 	example:[],
 
-	related:["owo censor"],
+	related:["ds censor"],
 
 	cooldown:5000,
 	half:100,

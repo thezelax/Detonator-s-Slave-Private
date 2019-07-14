@@ -19,11 +19,11 @@ module.exports = new CommandInterface({
 
 	args:"",
 
-	desc:"Opens a lootbox! Check how many you have in 'owo inv'!\nYou can get some more by hunting for animals. You can get a maximum of 3 lootboxes per day.\nYou can use the items by using 'owo use {id}'",
+	desc:"Opens a lootbox! Check how many you have in 'ds inv'!\nYou can get some more by hunting for animals. You can get a maximum of 3 lootboxes per day.\nYou can use the items by using 'ds use {id}'",
 
 	example:[],
 
-	related:["owo inv","owo hunt"],
+	related:["ds inv","ods hunt"],
 
 	cooldown:5000,
 	half:100,

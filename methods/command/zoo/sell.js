@@ -20,9 +20,9 @@ module.exports = new CommandInterface({
 
 	desc:"Sell animals from your zoo! Selling animals will NOT affect your zoo score!\nYou can also sell weapons by their unique weaponID!",
 
-	example:["owo sell dog","owo sell cat 1","owo sell ladybug all","owo sell uncommon","owo sell all","owo sell rareweapons"],
+	example:["ds sell dog","ds sell cat 1","ds sell ladybug all","ds sell uncommon","ds sell all","ds sell rareweapons"],
 
-	related:["owo hunt"],
+	related:["ds hunt"],
 
 	cooldown:1000,
 	half:150,

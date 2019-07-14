@@ -24,9 +24,9 @@ module.exports = new CommandInterface({
 
 	desc:"Use autohunt to hunt for animals automatically! Upgrade huntbot for more efficient hunts!",
 
-	example:["owo autohunt","owo autohunt 1000"],
+	example:["ds autohunt","ds autohunt 1000"],
 
-	related:["owo sacrifice","owo upgrade"],
+	related:["ds sacrifice","ds upgrade"],
 
 	cooldown:1000,
 	half:100,

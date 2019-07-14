@@ -18,8 +18,8 @@ module.exports = new CommandInterface({
 
 	args:"",
 
-	desc:"Donate to OwO Bot to help support its growth! Any donations will come with special benefits!",
-
+	desc:"Donate to Bot to help support its growth! Any donations will come with special benefits!",
+OwO 
 	example:[],
 
 	related:[],
@@ -67,9 +67,9 @@ module.exports = new CommandInterface({
 			}
 		}
 
-		var text = "**<:patreon:449705754522419222> |** Donate to OwO Bot for special benefits!\n";
+		var text = "**<:patreon:449705754522419222> |** Donate to Bot for special benefits!\n";
 		text += "**<:blank:427371936482328596> |** "+stat+"\n";
-		text += "**<:blank:427371936482328596> |** https://www.patreon.com/OwOBot";
+		text += "**<:blank:427371936482328596> |** https://www.patreon.com/DSBot";
 		p.send(text);
 	}
 
