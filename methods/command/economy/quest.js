@@ -24,7 +24,7 @@ module.exports = new CommandInterface({
 
 	desc:"Grab a quest everyday! Complete them to earn rewards! You also have one quest reroll per day! You can earn a new quest after 12am PST",
 
-	example:['owo quest','owo quest rr 1'],
+	example:['ds quest','ds quest rr 1'],
 
 	related:[],
 

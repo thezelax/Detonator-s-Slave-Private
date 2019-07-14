@@ -28,9 +28,9 @@ module.exports = new CommandInterface({
 
 	desc:"Displays your zoo! Some animals are rarer than others! Use the 'display' args to display all your animals from your history!",
 
-	example:["owo zoo","owo zoo display"],
+	example:["ds zoo","ds zoo display"],
 
-	related:["owo hunt","owo sell"],
+	related:["ds hunt","ds sell"],
 
 	cooldown:45000,
 	half:20,

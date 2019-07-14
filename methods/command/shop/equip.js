@@ -21,9 +21,9 @@ module.exports = new CommandInterface({
 
 	desc:"Use an item from your inventory!",
 
-	example:["owo equip 2"],
+	example:["ds equip 2"],
 
-	related:["owo inv","owo weapon"],
+	related:["ds inv","ds weapon"],
 
 	cooldown:1000,
 	half:80,

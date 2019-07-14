@@ -29,7 +29,7 @@ module.exports = new CommandInterface({
 
 	desc:"This displays the commands or more info on a specific command",
 
-	example:["owo help cowoncy","owo help"],
+	example:["ds help cowoncy","ds help"],
 
 	related:[],
 

@@ -22,9 +22,9 @@ module.exports = new CommandInterface({
 
 	desc:"Describe an item from the shop!",
 
-	example:["owo describe 2"],
+	example:["ds describe 2"],
 
-	related:["owo shop","owo inv","owo equip"],
+	related:["ds shop","ds inv","ds equip"],
 
 	cooldown:15000,
 	half:80,

@@ -17,7 +17,7 @@ module.exports = new CommandInterface({
 
 	desc:"Ships two people!",
 
-	example:["owo ship @OwO @Scuttler"],
+	example:["ds ship @OwO @Scuttler"],
 
 	related:[],
 

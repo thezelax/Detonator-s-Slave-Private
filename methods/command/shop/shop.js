@@ -20,7 +20,7 @@ module.exports = new CommandInterface({
 
 	example:[],
 
-	related:["owo money"],
+	related:["ds money"],
 
 	cooldown:15000,
 
@@ -35,10 +35,10 @@ function getPage(p,i){
 	switch(i){
 		case 1:
 			return {
-				"description": "Purchase a ring to propose to someone!\nAll rings are the same. Different tiers are available to show off your love!\n- **`owo buy {id}`** to buy an item\n- **`owo sell {id}`** to sell an item for 75% of its original price\n"+('═'.repeat(charLen+2))+"\n"+getRings(p),
+				"description": "Purchase a ring to propose to someone!\nAll rings are the same. Different tiers are available to show off your love!\n- **`ds buy {id}`** to buy an item\n- **`ds sell {id}`** to sell an item for 75% of its original price\n"+('═'.repeat(charLen+2))+"\n"+getRings(p),
 				"color": 4886754,
 				"author": {
-					"name": "OwO Shop: Rings",
+					"name": "ds Shop: Rings",
 				},
 				"footer":{
 					"text": "Page 1/1"

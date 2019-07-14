@@ -20,9 +20,9 @@ module.exports = new CommandInterface({
 
 	desc:"Displays your ranking of each category!\nYou can choose you rank within the server or globally!\nYou can also shorten the command like in the example!",
 
-	example:["owo my zoo","owo my cowoncy global","owo my p g"],
+	example:["ds my zoo","ds my cowoncy global","ds my p g"],
 
-	related:["owo top"],
+	related:["ds top"],
 
 	cooldown:5000,
 	half:100,

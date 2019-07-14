@@ -34,11 +34,11 @@ module.exports = new CommandInterface({
 
 	args:["@user"],
 
-	desc:"A custom command created by Geist! Bully your friends!",
+	desc:"A custom command created by Deto! Bully your friends!",
 
-	example:["owo bully @user"],
+	example:["ds bully @user"],
 
-	related:["owo hug"],
+	related:["ds hug"],
 
 	cooldown:5000,
 	half:100,

@@ -37,7 +37,7 @@ module.exports = new CommandInterface({
 				"timestamp": new Date(),
 				"thumbnail":{"url":"https://cdn.discordapp.com/app-icons/408785106942164992/00d934dce5e41c9e956aca2fd3461212.png"},
 				"author": {
-					"name": "OwO Bot Support",
+					"name": "Deto Bot Support",
 					"icon_url":"https://cdn.discordapp.com/app-icons/408785106942164992/00d934dce5e41c9e956aca2fd3461212.png"
 				},
 				"fields": [

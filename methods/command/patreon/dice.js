@@ -17,7 +17,7 @@ module.exports = new CommandInterface({
 
 	desc:"Roll a N-sided die! This command was created by Gut Funk!",
 
-	example:["owo roll","owo roll 20"],
+	example:["ds roll","ds roll 20"],
 
 	related:[],
 

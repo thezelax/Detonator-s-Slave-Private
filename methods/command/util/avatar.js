@@ -15,7 +15,7 @@ module.exports = new CommandInterface({
 
 	desc:"Look at your or other people's avatar!",
 
-	example:["owo avatar @OwO"],
+	example:["ds avatar @OwO"],
 
 	related:[],
 

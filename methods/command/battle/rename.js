@@ -17,9 +17,9 @@ module.exports = new CommandInterface({
 
 	desc:"Rename an animal from your zoo!",
 
-	example:["owo rename dog doggy"],
+	example:["ds rename dog doggy"],
 
-	related:["owo zoo","owo battle", "owo hunt"],
+	related:["ds zoo","ds battle", "ds hunt"],
 
 	cooldown:3000,
 	half:200,
@@ -27,7 +27,7 @@ module.exports = new CommandInterface({
 
 	execute: async function(p){
 		if(p.args.length<2){
-			p.errorMsg(", The correct command is `owo rename [animal] [name]`!");
+			p.errorMsg(", The correct command is `ds rename [animal] [name]`!");
 			return;
 		}
 

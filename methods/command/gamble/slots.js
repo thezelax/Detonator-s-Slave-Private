@@ -19,9 +19,9 @@ module.exports = new CommandInterface({
 
 	desc:"Bet your money in the slot machine! Earn up to 10x your money!",
 
-	example:["owo slots 1000","owo slots all","owo s 100"],
+	example:["ds slots 1000","ds slots all","ds s 100"],
 
-	related:["owo money","owo lottery","owo coinflip"],
+	related:["ds money","ds lottery","ds coinflip"],
 
 	cooldown:15000,
 	half:90,

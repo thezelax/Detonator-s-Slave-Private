@@ -18,7 +18,7 @@ module.exports = new CommandInterface({
 
 	desc:"Generate a distracted boyfriend meme! Seperate the three arguments with a '|' bar, or press 'Shift+Enter' between arguments",
 
-	example:["owo distracted Playing actual games | @OwO | @me"],
+	example:["ds distracted Playing actual games | @Deto | @me"],
 
 	related:[],
 

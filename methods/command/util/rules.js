@@ -13,11 +13,11 @@ module.exports = new CommandInterface({
 
 	args:"",
 
-	desc:"Display the rules for owo bot!",
+	desc:"Display the rules for ds bot!",
 
 	example:[],
 
-	related:["owo help"],
+	related:["ds help"],
 
 	cooldown:10000,
 	half:80,

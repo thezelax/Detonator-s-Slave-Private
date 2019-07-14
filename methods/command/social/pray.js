@@ -18,7 +18,7 @@ module.exports = new CommandInterface({
 
 	desc:"Pray or curse yourself or other users!!",
 
-	example:["owo pray","owo pray @scuttler"],
+	example:["ds pray","ds pray @scuttler"],
 
 	related:[],
 

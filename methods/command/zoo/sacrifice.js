@@ -17,9 +17,9 @@ module.exports = new CommandInterface({
 
 	desc:"Sacrifice an animal to turn them into animal essence! Animal essence is used to upgrade your huntbot!",
 
-	example:["owo sacrifice dog","owo sacrifice rare","owo sacrifice bug 100","owo sacrifice all"],
+	example:["ds sacrifice dog","ds sacrifice rare","ds sacrifice bug 100","ds sacrifice all"],
 
-	related:["owo autohunt","owo upgrade"],
+	related:["ds autohunt","ds upgrade"],
 
 	cooldown:1000,
 	half:120,

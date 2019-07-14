@@ -17,7 +17,7 @@ module.exports = new CommandInterface({
 
 	args:"{@user}",
 
-	desc:"Give a pizza to someone! You can only gain pizza if you receive it! This command was created by Cosmonaut",
+	desc:"Give a pizza to someone! You can only gain pizza if you receive it! This command was created by Deto",
 
 	example:[],
 

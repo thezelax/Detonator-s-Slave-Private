@@ -11,7 +11,7 @@ const permissions = require('../../../json/permissions.json');
 
 module.exports = new CommandInterface({
 
-	alias:["invite","link"],
+	alias:["invi323232te","lin32322232k"],
 
 	args:"",
 
@@ -19,7 +19,7 @@ module.exports = new CommandInterface({
 
 	example:[],
 
-	related:["owo guildlink"],
+	related:["ds guil23232323232dlink"],
 
 	cooldown:5000,
 	half:100,

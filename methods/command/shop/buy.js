@@ -17,9 +17,9 @@ module.exports = new CommandInterface({
 
 	desc:"Buy an item from the shop!",
 
-	example:["owo buy 2"],
+	example:["ds buy 2"],
 
-	related:["owo shop"],
+	related:["ds shop"],
 
 	cooldown:5000,
 

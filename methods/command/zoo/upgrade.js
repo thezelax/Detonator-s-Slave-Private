@@ -36,9 +36,9 @@ module.exports = new CommandInterface({
 
 	desc:"Use animal essence to upgrade autohunt!",
 
-	example:["owo upgrade efficiency 200","owo upgrade cost 5000"],
+	example:["ds upgrade efficiency 200","ds upgrade cost 5000"],
 
-	related:["owo autohunt","owo sacrifice"],
+	related:["ds autohunt","ds sacrifice"],
 
 	cooldown:1000,
 	half:120,

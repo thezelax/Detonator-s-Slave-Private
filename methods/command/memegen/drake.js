@@ -18,7 +18,7 @@ module.exports = new CommandInterface({
 
 	desc:"Generate a Drake meme! Seperate the two arguments with a '|' bar, or press 'Shift+Enter' between arguments",
 
-	example:["owo drake Using Discord to communicate with friends | Using discord to play OwO bot"],
+	example:["ds drake Using Discord to communicate with friends | Using discord to play ds bot"],
 
 	related:[],
 

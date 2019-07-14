@@ -15,9 +15,9 @@ module.exports = new CommandInterface({
 
 	desc:"Send some cowoncy to other users! This command must contain a @mention and an amount",
 
-	example:["owo give @Scuttler 25"],
+	example:["ds give @Scuttler 25"],
 
-	related:["owo money"],
+	related:["ds money"],
 
 	cooldown:5000,
 	half:100,

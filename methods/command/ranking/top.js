@@ -20,9 +20,9 @@ module.exports = new CommandInterface({
 
 	desc:"Displays the top ranking of each category!",
 
-	example:["owo top zoo","owo top cowoncy global","owo top p g"],
+	example:["ds top zoo","ds top cowoncy global","ds top p g"],
 
-	related:["owo my"],
+	related:["ds my"],
 
 	cooldown:5000,
 	half:100,
